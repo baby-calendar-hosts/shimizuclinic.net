@@ -214,7 +214,6 @@
     "wpackagist-plugin/flexible-table-block": "*",
     "wpackagist-plugin/fluent-smtp": "*",
     "wpackagist-plugin/instagram-feed": "*",
-    "wpackagist-plugin/limit-login-attempts-reloaded": "*",
     "wpackagist-plugin/mw-wp-form": "5.0.4",
     "wpackagist-plugin/recaptcha-for-mw-wp-form": "*",
     "wpackagist-plugin/my-calendar": "3.8.0",
